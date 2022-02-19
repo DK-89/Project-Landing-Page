@@ -1,6 +1,12 @@
 body {
     display: flex;
     flex-direction: column;
+
+}
+
+html, body {
+    max-width: 100%;
+    box-sizing: border-box;
 }
 
 .header {
